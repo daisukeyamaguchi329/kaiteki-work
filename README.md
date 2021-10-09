@@ -18,7 +18,7 @@
 リモートワーク中に家の外から工事の音がしたり家族の話し声が入ってしまう時、家では仕事がはかどらない時、周りの目を気にせずに一人で作業したい時に利用が見込めます。
 ## 設計書
 ER図
-![kaitekiwork](capture.png) 
+![kaiteki-work](./capture.png) 
 
 テーブル定義書
 https://docs.google.com/spreadsheets/d/1an3gF3I87p2o0bYeBfgntdKvli6TRKcXB63mtRGX3vE/edit#gid=1373217982
