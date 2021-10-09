@@ -17,6 +17,13 @@
 ### 主な利用シーン
 リモートワーク中に家の外から工事の音がしたり家族の話し声が入ってしまう時、家では仕事がはかどらない時、周りの目を気にせずに一人で作業したい時に利用が見込めます。
 ## 設計書
+ER図
+
+テーブル定義書
+https://docs.google.com/spreadsheets/d/1an3gF3I87p2o0bYeBfgntdKvli6TRKcXB63mtRGX3vE/edit#gid=1373217982
+
+アプリケーション詳細設計
+https://docs.google.com/spreadsheets/d/1oSiAZDsHsS_1Qao2LmgALY6jKZXUfV4YBovDADMg6so/edit#gid=1942390973
 
 ## チャレンジ要素一覧
 https://docs.google.com/spreadsheets/d/1K4XWqIC0_hwXue6OZD8oE2m7J0oNyOAC8M0fuo2HV94/edit#gid=0
